@@ -19,10 +19,9 @@ class MyApp extends StatelessWidget {
               color: Colors.black, fontSize: 20, fontWeight: FontWeight.bold),
         ),
       ),
-      title: 'Flutter eCommerce',
+      title: 'Pleno',
       initialRoute: '/',
       routes: routes,
-      onGenerateRoute: generateRoute,
     );
   }
 }
